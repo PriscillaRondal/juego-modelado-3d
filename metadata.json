@@ -1,0 +1,6 @@
+{
+  "name": "Ciber 3D: Reto Low Poly",
+  "description": "Un electrizante simulador arcade de modelado 3D en el entrañable ciber de la esquina. ¡Sube de nivel tu PC, compra snacks y completa modelos a velocidad récord!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
